@@ -11,6 +11,10 @@ I'm open to collaborating on projects that involve HTML and JavaScript. If you h
 📫 Get in Touch
 GitHub: Eliahhango
 Email: (hangoeliah@gmail.com)
+Telegram group: https://t.me/techarmyy
+Telegram channel: https://t.me/techarmyyy
+YouTube channel: https://youtube.com/@eliahhango
+
 😄 Fun Fact
 I believe that the best websites are not just functional, but also tell a story and create memorable experiences for the users.
 
