@@ -32,9 +32,6 @@ I believe that the best websites are not just functional, but also tell a story 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Eliahhango&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Eliahhango&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 Let's connect, collaborate, and create amazing things together! 🌟
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
