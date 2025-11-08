@@ -326,5 +326,5 @@ I'm open to collaborating on projects involving:
   
   ### "Building Secure, Beautiful, and Functional Digital Experiences"
   
-  <sub>© 2024 Eliahhango | Full Stack Developer | Cybersecurity Specialist | Designer | Civil Engineering Student</sub>
+  <sub>© 2025 Eliahhango | Full Stack Developer | Cybersecurity Specialist | Designer | Civil Engineering Student</sub>
 </div>
