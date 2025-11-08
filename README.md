@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Eliahhango;Web+Developer;Crafting+Digital+Experiences;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Eliahhango;Full+Stack+Developer;Front-End+%2B+Back-End;Continuous+Learner" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,17 +17,27 @@
 
 ## About Me
 
-```javascript
-const developer = {
-    name: "Eliahhango",
-    role: "Web Developer",
-    focus: ["HTML", "CSS", "JavaScript"],
-    currentlyLearning: "Modern JavaScript Frameworks",
-    passion: "Building immersive web experiences"
-};
-```
+<table>
+<tr>
+<td>
 
-Passionate web developer with a strong foundation in front-end technologies. I specialize in creating clean, responsive, and user-friendly web applications. My current focus is on mastering JavaScript and exploring modern frameworks to build dynamic and interactive solutions.
+**Name:** Eliahhango
+
+**Role:** Full Stack Developer
+
+**Front-End:** HTML, CSS, JavaScript
+
+**Back-End:** Node.js, Express, APIs
+
+**Currently Learning:** Modern JavaScript Frameworks & Server Architecture
+
+**Passion:** Building end-to-end web solutions
+
+</td>
+</tr>
+</table>
+
+Full stack developer with expertise in both front-end and back-end technologies. I specialize in creating complete web applications from responsive user interfaces to robust server-side logic. My skill set spans the entire development cycle, enabling me to build scalable and efficient solutions.
 
 I believe in writing semantic, accessible code and continuously improving my craft through learning and practice.
 
@@ -54,57 +64,42 @@ I believe in writing semantic, accessible code and continuously improving my cra
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eliahhango&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eliahhango&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliahhango&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Top Languages" height="170"/>
 </div>
 
 ---
 
-## Current Learning Path
-
-**JavaScript Ecosystem**
-- Advanced ES6+ features and design patterns
-- Asynchronous programming and API integration
-- Modern framework development with React
-
-**Web Development Best Practices**
-- Responsive design principles
-- Performance optimization techniques
-- Accessibility standards and implementation
-
----
-
-## Collaboration
-
-I am open to collaborating on web development projects that involve:
-
-- Front-end development using HTML, CSS, and JavaScript
-- Open source contributions
-- Learning opportunities and skill development
-- Innovative web applications and interfaces
-
-If you have an interesting project or idea, feel free to reach out.
-
----
-
-## Contact
+## Recent Activity
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eliahhango)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/Eliahhango)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eliahhango&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF)](https://github.com/Eliahhango)
 
 </div>
 
----
+### Latest Repositories
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
   
-  <sub>© 2024 Eliahhango. All rights reserved.</sub>
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Eliahhango&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)](https://github.com/Eliahhango/REPO_NAME_1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Eliahhango&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)](https://github.com/Eliahhango/REPO_NAME_2)
+
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=Eliahhango&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)](https://github.com/Eliahhango/REPO_NAME_3)
+[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=Eliahhango&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)](https://github.com/Eliahhango/REPO_NAME_4)
+
 </div>
+
+<!-- Alternative: Automatic Latest Repos (updates automatically) -->
+<!--
+<div align="center">
+  <a href="https://github.com/Eliahhango">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eliahhango&theme=tokyonight" alt="Repos by Language"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eliahhango&theme=tokyonight" alt="Most Commit Language"/>
+  </a>
+</div>
+-->.vercel.app/api?username=Eliahhango&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eliahhango&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats
