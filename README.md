@@ -120,51 +120,118 @@ My approach integrates three core disciplines:
 
 ## 🎯 Expertise Areas
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
 
-### Development
-- Full-Stack Web Applications
-- RESTful API Architecture
-- Database Design & Optimization
-- Responsive UI/UX Implementation
-- Cloud Deployment & Hosting
-
+### 💻 Development
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br>
 
-### Cybersecurity
-- Vulnerability Assessment
-- Penetration Testing
-- Network Security Analysis
-- Secure Coding Practices
-- Threat Detection & Mitigation
-
+### 🔒 Cybersecurity
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Design
-- User Interface Design
-- User Experience Research
-- Brand Identity Creation
-- Graphic Design & Illustration
-- Prototyping & Wireframing
+```diff
++ Full-Stack Web Applications
++ RESTful API Architecture
++ Database Design & Optimization
++ Responsive UI/UX Implementation
++ Cloud Deployment & Hosting
+```
+
+<div align="center">
+
+![Development](https://img.shields.io/badge/Level-Advanced-brightgreen?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Projects-50+-blue?style=for-the-badge)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### Current Focus
-- Advanced React Patterns
-- Cybersecurity Certifications
-- Design System Development
-- DevSecOps Integration
+```diff
++ Vulnerability Assessment
++ Penetration Testing
++ Network Security Analysis
++ Secure Coding Practices
++ Threat Detection & Mitigation
+```
+
+<div align="center">
+
+![Security](https://img.shields.io/badge/Level-Expert-red?style=for-the-badge)
+![Certified](https://img.shields.io/badge/Certifications-Active-orange?style=for-the-badge)
+
+</div>
 
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
+
+### 🎨 Design
+</td>
+<td width="50%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"><br>
+
+### 🚀 Current Focus
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+```diff
++ User Interface Design
++ User Experience Research
++ Brand Identity Creation
++ Graphic Design & Illustration
++ Prototyping & Wireframing
+```
+
+<div align="center">
+
+![Design](https://img.shields.io/badge/Level-Professional-blueviolet?style=for-the-badge)
+![Portfolio](https://img.shields.io/badge/Designs-100+-pink?style=for-the-badge)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+```diff
+@ Advanced React Patterns
+@ Cybersecurity Certifications
+@ Design System Development
+@ DevSecOps Integration
+```
+
+<div align="center">
+
+![Learning](https://img.shields.io/badge/Status-Active%20Learning-yellow?style=for-the-badge)
+![Growth](https://img.shields.io/badge/Mindset-Always%20Growing-success?style=for-the-badge)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
 
 ---
 
@@ -212,5 +279,5 @@ I'm open to collaborating on projects involving:
   
   ### "Building Secure, Beautiful, and Functional Digital Experiences"
   
-  <sub>© 2024 Eliahhango | Full Stack Developer | Cybersecurity Specialist | Designer</sub>
+  <sub>© 2025 Eliahhango | Full Stack Developer | Cybersecurity Specialist | Designer</sub>
 </div>
