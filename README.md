@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;UI%2FUX+Designer;Building+Secure+%26+Beautiful+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;UI%2FUX+Designer;Civil+Engineering+Student;Building+Secure+%26+Beautiful+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -30,7 +30,7 @@
 
 **Name:** Eliahhango
 
-**Role:** Full Stack Developer | Cybersecurity Specialist | Designer
+**Role:** Full Stack Developer | Cybersecurity Specialist | Designer | Civil Engineering Student
 
 **Front-End:** HTML, CSS, JavaScript, React
 
@@ -40,6 +40,8 @@
 
 **Design:** UI/UX Design, Graphics, Visual Identity
 
+**Civil Engineering:** Structural Design, ArchiCAD, AutoCAD, Building Design
+
 **Currently Mastering:** Advanced Security Protocols & Modern Design Systems
 
 </td>
@@ -48,12 +50,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-Multidisciplinary developer combining technical expertise with creative design thinking. I build secure, scalable full-stack applications while maintaining a strong focus on cybersecurity best practices and user-centered design principles.
+Multidisciplinary developer and civil engineering student combining technical expertise with creative design thinking. I build secure, scalable full-stack applications while maintaining a strong focus on cybersecurity best practices and user-centered design principles. Currently expanding my knowledge in structural design and architectural planning.
 
-My approach integrates three core disciplines:
+My approach integrates four core disciplines:
 - **Development:** Creating robust applications from front-end to back-end
 - **Security:** Implementing secure coding practices and threat mitigation
 - **Design:** Crafting intuitive interfaces with modern aesthetics
+- **Civil Engineering:** Structural design and architectural visualization
 
 <br clear="right"/>
 
@@ -88,6 +91,12 @@ My approach integrates three core disciplines:
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+### Civil Engineering Tools
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white)
+![ArchiCAD](https://img.shields.io/badge/ArchiCAD-0078D7?style=for-the-badge&logo=archicad&logoColor=white)
+![Revit](https://img.shields.io/badge/Revit-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
 
 ### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -229,6 +238,38 @@ My approach integrates three core disciplines:
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="100%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"><br>
+
+### 🏗️ Civil Engineering
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+```diff
++ Structural Design & Analysis
++ Building & Architectural Design
++ AutoCAD Technical Drawings
++ ArchiCAD 3D Modeling & BIM
++ Construction Documentation
++ Site Planning & Layout Design
+```
+
+<div align="center">
+
+![Engineering](https://img.shields.io/badge/Level-Student-informational?style=for-the-badge)
+![Knowledge](https://img.shields.io/badge/Knowledge-Advanced-teal?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Designs-Multiple-cyan?style=for-the-badge)
+
+</div>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
@@ -253,6 +294,12 @@ I'm open to collaborating on projects involving:
 - UI/UX design for web applications
 - Brand identity and visual design
 - Design system creation
+
+**Civil Engineering Projects**
+- Structural design and analysis
+- Architectural planning using ArchiCAD/AutoCAD
+- Building design and 3D modeling
+- Construction documentation
 
 ---
 
@@ -279,5 +326,5 @@ I'm open to collaborating on projects involving:
   
   ### "Building Secure, Beautiful, and Functional Digital Experiences"
   
-  <sub>© 2025 Eliahhango | Full Stack Developer | Cybersecurity Specialist | Designer</sub>
+  <sub>© 2024 Eliahhango | Full Stack Developer | Cybersecurity Specialist | Designer | Civil Engineering Student</sub>
 </div>
